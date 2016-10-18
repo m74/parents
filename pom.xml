@@ -9,9 +9,9 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>webapp-parent</module>
         <module>springweb-parent</module>
         <module>lib-parent</module>
-        <module>webapp-parent</module>
         <module>ext6-spring-parent</module>
     </modules>
 
