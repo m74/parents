@@ -16,7 +16,7 @@
     <packaging>pom</packaging>
 
     <properties>
-        <spring.version>4.3.5.RELEASE</spring.version>
+        <spring.version>4.3.18.RELEASE</spring.version>
         <spring.security.version>4.2.1.RELEASE</spring.security.version>
         <spring.security.kerberos.version>1.0.1.RELEASE</spring.security.kerberos.version>
         <jsr250.version>1.0</jsr250.version>
